@@ -1,0 +1,14 @@
+#down{
+	position:relative;
+	height:50px;
+	background-color:black;
+	color:#DEDEDE;
+	font-size:25px;
+	font-family:Arial;
+}
+#down-content{
+	position:absolute;
+	top:25%;
+	width:100%;
+	text-align:center;
+}
