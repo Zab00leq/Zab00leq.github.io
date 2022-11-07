@@ -17,16 +17,19 @@ body{
 	left:25%;
 	margin-top:50px;
 	font-size:80px;
-	font-family:Stencil;
+	font-family: 'Stardos Stencil', cursive;
 }
 #upright{
 	float:left;
-	top:25%;
 	margin-top:50px;
 	position:absolute;
 	left:130%;
 }
-
+.social{
+	float:left;
+	width:100px;
+	height:100px;
+}
 
 #down{
 	position:relative;
